@@ -2,7 +2,7 @@ pipeline {
   agent any
   environment {
     VERCEL_TOKEN='H1pUAZJ6NklxsyIazYU6H1nX'
-    VERCEL_SCOPE='darinpope'
+    VERCEL_SCOPE='kanapuramsaiprakash-gmailcom'
     WORK_DIR='je-myapp'
   }
   stages {
